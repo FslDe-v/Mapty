@@ -34,4 +34,4 @@ CSS & HTML (for UI design)
 
 ## Live Demo 🚀
 
-🔗 View Mapty in Action
+🔗 View Mapty in Action: https://mapty-cdc3a.web.app/
